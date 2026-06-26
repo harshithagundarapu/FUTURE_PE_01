@@ -1,0 +1,92 @@
+Prompt Framework
+Introduction
+
+The Prompt Framework is the core component of this project. Instead of generating random content, it provides structured instructions that guide AI to produce professional, business-specific website copy.
+
+The framework is designed to be reusable for multiple local businesses by changing only the business information while keeping the overall structure consistent.
+
+Prompt 1 – Homepage Copy
+
+Generate a professional homepage for a local beauty salon.
+
+Requirements:
+
+Create a compelling headline.
+Write a benefit-driven subheadline.
+Introduce the business in 150–200 words.
+Explain why customers should choose the salon.
+Highlight unique selling points.
+Include trust-building statements.
+End with a strong call-to-action encouraging appointment booking.
+
+Tone:
+Friendly, confident, and customer-focused.
+
+Prompt 2 – Services Page
+
+Generate detailed service descriptions for a local beauty salon.
+
+Include:
+
+Service Name
+Description
+Key Features
+Customer Benefits
+Why choose this service
+
+Each description should be approximately 100 words and written in simple, persuasive language.
+
+Prompt 3 – Call-to-Action Section
+
+Generate multiple CTA sections for different parts of the website.
+
+Include:
+
+Homepage CTA
+Footer CTA
+Booking CTA
+Limited-time offer CTA
+Contact CTA
+
+Each CTA should motivate visitors to schedule an appointment or contact the salon.
+
+Prompt 4 – Tone Adaptation
+
+Rewrite the website copy using different communication styles:
+
+Friendly
+Professional
+Confident
+Simple English
+
+Ensure that the meaning remains consistent while adapting the writing style to suit different audiences.
+
+Prompt Design Logic
+
+The prompts follow a structured sequence:
+
+Identify the business type.
+Understand the target audience.
+Highlight customer problems.
+Present business solutions.
+Build trust through experience and quality.
+Encourage immediate customer action using persuasive CTAs.
+
+This logical structure helps the AI produce focused, high-quality, and conversion-oriented content.
+
+Reusability
+
+The framework is not limited to salons. By replacing the business details, it can generate website copy for:
+
+Cafés
+Restaurants
+Coaching institutes
+Clinics
+Diagnostic centers
+Marketing agencies
+Freelancers
+Fitness centers
+Pet care services
+Local retail stores
+
+This flexibility makes the framework valuable for web agencies, freelancers, and businesses looking to create professional website content quickly and consistently.

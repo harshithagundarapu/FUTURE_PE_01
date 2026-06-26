@@ -1,0 +1,27 @@
+GitHub Repository Guide
+Description
+
+This repository contains the complete submission for Future Interns Prompt Engineering Task 1 (2026). The project demonstrates how structured prompt engineering can be used to generate professional website copy for local businesses using Artificial Intelligence.
+
+The repository has been organized into separate Markdown files, each focusing on a specific component of the project. This modular structure improves readability, makes future updates easier, and allows each section to be reused independently.
+
+Repository Contents
+README.md
+Business_Details.md
+Prompt_Framework.md
+Homepage_Copy.md
+Services_Page.md
+CTA_Sections.md
+Tone_Adaptation.md
+Prompt_Logic.md
+AI_Tools_Used.md
+LinkedIn_Post.md
+GitHub_Repository_Guide.md
+
+Each file includes detailed explanations, structured prompts, and AI-generated outputs suitable for real-world website development. The project follows prompt engineering best practices by using reusable prompts, business-specific language, strong value propositions, and persuasive call-to-action sections.
+
+The selected business for this demonstration is ABC Salon, Bangalore, but the framework can easily be adapted for cafés, clinics, coaching institutes, restaurants, agencies, freelancers, and many other local businesses by modifying the business details within the prompts.
+
+This repository serves as both a learning resource and a portfolio project, showcasing practical applications of AI in website copywriting and digital marketing. It demonstrates the value of prompt engineering in reducing content creation time while producing professional, customer-focused website copy.
+
+Overall, this project highlights how AI-powered content generation can help businesses improve their online presence, communicate their value more effectively, and increase customer engagement through clear, persuasive, and reusable website content.

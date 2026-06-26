@@ -1,0 +1,14 @@
+Prompt Logic
+Description
+
+The Prompt Logic file explains the structured approach used to generate high-quality website copy through artificial intelligence. Instead of asking the AI to write random content, the prompts are carefully designed with clear instructions, context, and expected outputs. This ensures that the generated content is relevant, engaging, and suitable for real business websites.
+
+The framework begins by identifying the type of business, its target audience, services offered, and unique selling points. Once this information is provided, the AI is instructed to generate specific website sections such as the homepage, service descriptions, and call-to-action content. Each prompt includes formatting guidelines, tone requirements, and word limits to maintain consistency across all generated outputs.
+
+A key feature of this prompt logic is its modular structure. Each website section is generated independently, allowing businesses to update or regenerate individual sections without affecting the rest of the content. This improves flexibility and makes the framework reusable for different industries.
+
+The prompt also emphasizes customer benefits instead of simply listing services. It encourages the AI to focus on solving customer problems, building trust, and motivating visitors to take action. Instructions such as "highlight unique selling points," "use persuasive language," and "include a strong call-to-action" help produce conversion-focused content rather than generic descriptions.
+
+Another important aspect of the prompt logic is tone adaptation. Depending on the business type, the AI can generate content in a friendly, professional, confident, or simple tone. This ensures that the final website copy matches the brand personality and appeals to the intended audience.
+
+Overall, this structured prompt engineering approach produces professional-quality website content while reducing the time and effort required for manual copywriting. It demonstrates how well-designed prompts can transform AI into an effective content creation tool for freelancers, agencies, and local businesses.

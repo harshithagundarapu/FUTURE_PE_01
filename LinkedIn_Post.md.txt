@@ -1,0 +1,37 @@
+LinkedIn Showcase Post
+
+🚀 Completed Future Interns Prompt Engineering Task 1 – AI Website Copy Generator for Local Businesses
+
+I'm excited to share the completion of my latest Prompt Engineering project as part of the Future Interns Internship Program.
+
+In this project, I designed a structured AI prompt framework capable of generating professional, conversion-focused website copy for local businesses. The framework was developed using Prompt Engineering techniques and AI tools to automate content creation while maintaining clarity, consistency, and marketing effectiveness.
+
+Project Highlights
+
+✅ Professional Homepage Copy
+
+✅ Detailed Services Page
+
+✅ Persuasive Call-to-Action Sections
+
+✅ Tone Adaptation (Friendly, Professional, Confident, and Simple)
+
+✅ Reusable Prompt Framework
+
+Business Selected
+
+ABC Salon, Bangalore
+
+AI Tools Used
+ChatGPT
+Claude
+Google Gemini
+Lovable AI
+Framer AI
+Key Learning Outcomes
+
+This project helped me understand how structured prompts can generate business-specific website content, improve customer engagement, and support digital marketing. I also learned how AI can assist freelancers and agencies in delivering high-quality content more efficiently.
+
+I look forward to applying these prompt engineering skills to future AI-powered projects and exploring more real-world applications of Generative AI.
+
+#FutureInterns #PromptEngineering #GenerativeAI #ArtificialIntelligence #ChatGPT #ClaudeAI #GoogleGemini #DigitalMarketing #WebDevelopment #GitHub #PortfolioProject #AI

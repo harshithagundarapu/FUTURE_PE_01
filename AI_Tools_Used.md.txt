@@ -1,0 +1,30 @@
+AI Tools Used
+Description
+
+This project uses several Artificial Intelligence tools to demonstrate how modern AI can simplify website content creation for local businesses. Each tool contributes to different stages of prompt engineering, content generation, refinement, and website development.
+
+ChatGPT
+
+ChatGPT was the primary tool used in this project. It generated homepage copy, service descriptions, call-to-action sections, and tone adaptations based on structured prompts. Its ability to follow detailed instructions helped create consistent and business-focused website content.
+
+Claude
+
+Claude was used as a supporting AI tool to compare writing quality and improve readability. It helped evaluate whether the generated content sounded natural, informative, and customer-friendly. Claude's responses also provided alternative writing styles that could be used for comparison.
+
+Google Gemini
+
+Google Gemini was explored to validate prompt effectiveness and observe how different AI models interpret the same instructions. Comparing outputs from multiple AI systems improved the overall quality and reliability of the prompt framework.
+
+Lovable AI
+
+Lovable AI is an AI-powered website builder that can convert generated website copy into complete website layouts. Businesses can use the generated content from this project directly within Lovable AI to build attractive business websites with minimal manual effort.
+
+Framer AI
+
+Framer AI enables users to create responsive and modern websites using AI-generated content. The homepage copy, service descriptions, and CTA sections developed in this project can easily be integrated into Framer AI to produce professional websites suitable for real clients.
+
+Benefits of Using AI
+
+Using AI tools significantly reduces the time required to create website content. Instead of spending several days writing and editing copy, businesses can generate high-quality content within minutes. AI also improves consistency, reduces writing costs, and allows easy customization for different industries.
+
+This project demonstrates how multiple AI tools can work together to support prompt engineering, content creation, website development, and digital marketing, making them valuable resources for freelancers, agencies, and local business owners.

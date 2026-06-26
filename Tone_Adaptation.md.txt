@@ -1,0 +1,18 @@
+Tone Adaptation
+Description
+
+Tone adaptation is an important aspect of AI-generated website copy because different businesses communicate with their customers in different ways. A beauty salon, café, coaching institute, clinic, or digital agency each has a unique brand personality, and the language used on their website should reflect that personality. A well-designed prompt should not only generate accurate content but also adapt its tone to match the target audience and business goals.
+
+In this project, the prompt framework was designed to support four different writing styles: friendly, professional, confident, and simple. These tones allow the same prompt to generate customized website copy for a variety of local businesses without changing the overall structure of the content.
+
+The friendly tone is ideal for businesses such as salons, cafés, restaurants, and retail stores. It uses warm, welcoming, and conversational language that helps customers feel comfortable and valued. Friendly content builds emotional connections with visitors and encourages them to engage with the business.
+
+The professional tone is suitable for clinics, diagnostic centers, educational institutions, and agencies. It focuses on credibility, expertise, and trust while maintaining a formal yet approachable style. This tone reassures customers that they are choosing a reliable and experienced service provider.
+
+The confident tone emphasizes the business's strengths, achievements, and commitment to quality. It highlights experience, customer satisfaction, and premium services while motivating visitors to take action. This style works well for businesses that want to establish a strong market presence and increase customer confidence.
+
+The simple tone uses clear and easy-to-understand language so that visitors of all backgrounds can quickly understand the website content. Short sentences, direct messaging, and straightforward explanations improve readability and enhance the user experience.
+
+The prompt framework was carefully structured so that only the writing style changes while the key information, service details, and value proposition remain consistent. This makes the prompts highly reusable and adaptable for multiple industries.
+
+By incorporating tone adaptation into the prompt engineering process, this project demonstrates how AI can create business-specific website copy that feels natural, professional, and engaging. The result is content that improves customer trust, strengthens brand identity, and encourages more website visitors to become paying customers.

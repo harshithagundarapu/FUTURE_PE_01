@@ -1,0 +1,66 @@
+Business Details
+Selected Business
+ABC Salon, Bangalore
+
+ABC Salon is a modern beauty salon located in Bangalore that offers professional grooming and beauty services for men and women. The salon focuses on delivering premium-quality beauty treatments at affordable prices while maintaining excellent customer service.
+
+The salon provides services such as haircuts, hairstyling, hair coloring, facials, bridal makeup, skincare treatments, manicure, pedicure, and hair spa. Experienced beauty professionals use premium-quality products and modern techniques to ensure customer satisfaction.
+
+Although the salon has a loyal customer base, its website lacks clear messaging and persuasive marketing content. Visitors often struggle to understand what makes the salon different from competitors. Service descriptions are brief, the homepage does not communicate a strong value proposition, and the call-to-action sections do not effectively encourage bookings.
+
+Target Customers
+
+The primary audience includes:
+
+College students looking for affordable beauty services.
+Working professionals seeking premium grooming experiences.
+Brides preparing for weddings and special occasions.
+Families looking for trusted beauty services.
+Individuals interested in skincare and wellness treatments.
+Current Website Problems
+
+Several issues reduce the effectiveness of the existing website:
+
+Generic homepage content.
+Weak value proposition.
+Lack of emotional connection with visitors.
+Limited information about services.
+No trust-building content.
+Poorly written call-to-action buttons.
+No emphasis on customer benefits.
+Business Goals
+
+The business aims to:
+
+Increase online appointment bookings.
+Improve customer trust.
+Build a stronger online brand.
+Clearly communicate service quality.
+Increase repeat customers.
+Improve search engine visibility through informative website content.
+Proposed AI Solution
+
+A structured prompt engineering framework will generate professional website copy tailored to the salon's needs. The generated content includes:
+
+Homepage copy
+Service descriptions
+About section
+Trust-building content
+Customer-focused messaging
+Persuasive call-to-action sections
+Tone adaptation
+
+The framework ensures consistency across all website pages while reducing the time required to create marketing content. Because the prompts are reusable, the same approach can be applied to other local businesses with minimal changes.
+
+Expected Benefits
+
+After implementing the generated website copy, the salon can expect:
+
+Higher visitor engagement.
+Better understanding of services.
+Increased customer confidence.
+More appointment bookings.
+Improved online reputation.
+Stronger competitive advantage in the local beauty market.
+
+This business was selected because salons rely heavily on customer trust, visual branding, and persuasive communication. A well-written website can significantly influence a visitor's decision to book an appointment, making it an ideal use case for AI-powered copy generation.
